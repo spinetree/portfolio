@@ -47,11 +47,11 @@ Number and name of feature: 1: refactor css using SMACSS
 
 Estimate of time needed to complete: 1 hour
 
-Start time: 
+Start time: 10:30am
 
-Finish time: 
+Finish time: 12pm
 
-Actual time needed to complete: 
+Actual time needed to complete: 1.5 hours 
 
 
 ------------------------------------------
@@ -61,7 +61,7 @@ Number and name of feature: 2: Modify the contents
 
 Estimate of time needed to complete: 1.5 hours
 
-Start time: 
+Start time: 3:30pm
 
 Finish time: 
 
