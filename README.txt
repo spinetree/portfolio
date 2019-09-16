@@ -66,3 +66,17 @@ Start time: 3:30pm
 Finish time: 5:30
 
 Actual time needed to complete: 2 hours 
+
+
+------------------------------------------
+
+
+Number and name of feature: 3: Add features
+
+Estimate of time needed to complete: 1.5 hours
+
+Start time: 9:45 am
+
+Finish time: 
+
+Actual time needed to complete: 
