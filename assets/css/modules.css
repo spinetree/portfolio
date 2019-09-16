@@ -33,8 +33,7 @@
 	-ms-flex-grow: 1;
 	flex-grow: 1;
 }
-
-#header .bottom {
+	#header .bottom {
 	-moz-flex-shrink: 0;
 	-webkit-flex-shrink: 0;
 	-ms-flex-shrink: 0;
@@ -85,6 +84,7 @@
 	color: rgba(255, 255, 255, 0.5);
 	line-height: 1.25em;
 	margin: 0.5em 0 0 0;
+	text-align:right;
 }
 
 #logo .image {
@@ -225,6 +225,12 @@
 #main>section.one {
 	background-color: #81918E;
 	background-image: url("../../assets/images/pageHeaderBg.jpg");
+}
+
+#main>section.one p {
+
+	text-align:center;
+
 }
 
 #main>section.two {
@@ -441,6 +447,7 @@
 		margin-top: 2em;
 		position: relative;
 	}
+
 
 	#logo {
 		margin: 1.5em 1.25em 1.25em 1.25em;
