@@ -18,6 +18,11 @@ footer {
 	width: 1400px;
 }
 
+#main {
+	position: relative;
+}
+
+
 @media screen and (min-width: 961px) and (max-width: 1880px) {
 
 	.container {
