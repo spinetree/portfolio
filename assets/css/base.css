@@ -17,6 +17,8 @@ Basic html elements. If it's an element that gets a class that makes it a reusab
 
 html {
 	box-sizing: border-box;
+	background: #262E27
+
 }
 
 *,
@@ -26,7 +28,7 @@ html {
 }
 
 body {
-	background: #fff;
+	background: #262E27
 	color: #888;
 }
 
